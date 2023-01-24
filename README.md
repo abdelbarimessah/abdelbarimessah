@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to my poroject in my profil  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Good fact: Perfection is the enemy of good enough 
   
 
 <br/>  
