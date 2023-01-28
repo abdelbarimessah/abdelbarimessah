@@ -16,6 +16,8 @@
   
 
 - ⚡ Good fact: Perfection is the enemy of good enough 
+
+- 📧 How to contact me : abdomessah@gmail.com
   
 
 <br/>  
