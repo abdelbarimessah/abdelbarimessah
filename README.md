@@ -4,6 +4,11 @@
 <!-- [![abdelbarimessah github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
   
 ### <div align="center">I'm abdelbari, a software engineering student.</div>  
+
+## Play Chrome Dino Game
+
+[![Play Chrome Dino Game](https://chromedino.com/icon.png)](https://chromedino.com/)
+
   
 
 - 🔭 I’m currently software student in 1337 kh (42 network)  
