@@ -1,5 +1,5 @@
   
-### <div align="center">I'm abdelbari, a software engineering student.</div>  
+### <div align="center">I'm abdelbari, a software engineer.</div>  
 
   
 
